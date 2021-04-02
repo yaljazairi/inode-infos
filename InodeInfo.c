@@ -1,7 +1,8 @@
 /*  
     Author:     Yaman Aljazairi
     Compile:    gcc -Wall -pedantic -std=c11 InodeInfo.c -o InodeInfo
-                or by using makefile --> make all --> ./InodeInfo
+                or by using makefile --> make all
+    Run:        ./InodeInfo
 
     Data to check: /dev/ada0 /bin/sh /usr/bin/tar /var/spool /etc/master.passwd /tmp/.X11-unix/X0
 */
