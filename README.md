@@ -1,4 +1,4 @@
-# Inode_Infos
+# inode-infos
 
 This program helps finding out which type of file is the one mentioned as a command parameter.
 
